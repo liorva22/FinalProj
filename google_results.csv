@@ -1,15 +1,15 @@
-﻿row_name,Quality,Accessibility,Conspiratorial,SSI
-Brazil,bc,b,cd,def
-Germany,a,a,abc,g
-India,bc,f,a,de
-Indonesia,bc,bcd,a,a
-Israel,b,e,d,ef
-Italy,a,de,ab,bc
-Japan,bc,f,d,g
-Mexico,a,bc,abcd,b
-Portugal,bc,b,abcd,def
-South Korea,c,ef,a,g
-Spain,a,a,d,f
-Taiwan,a,g,bcd,g
-United States,a,cd,d,def
-Vietnam,bc,ef,bcd,cd
+﻿country,Quality,Accessibility,SSI
+Brazil,bc,b,de
+Germany,a,a,f
+India,bc,f,cd
+Indonesia,bc,c,a
+Israel,b,d,e
+Italy,a,d,b
+Japan,c,f,f
+Mexico,a,bc,b
+Portugal,bc,b,de
+South Korea,c,de,f
+Spain,a,a,e
+Taiwan,a,g,f
+United States,a,c,de
+Vietnam,c,ef,c
